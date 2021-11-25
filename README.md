@@ -1,1 +1,1 @@
-# Cards_with_ANIMATION_GSAP
+# Cards_with_clipPath_ANIMATION_GSAP
